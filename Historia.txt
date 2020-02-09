@@ -1,2 +1,6 @@
 Esta es mi Historia
-Soy Daniel, tengo 19 años y estoy aprendiendo a programar
+Soy Daniel, tengo 19 años y estoy aprendiendo a programar.
+
+Nacio en Venezuela y ahora vive en Colombia.
+
+Hoy esta estudiando en Platzi.

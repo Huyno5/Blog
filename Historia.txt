@@ -7,3 +7,5 @@ Hoy esta estudiando en Platzi.
 Estoy a punto de terminal el curso de Git y GitHub
 
 Master 1
+
+Master 2

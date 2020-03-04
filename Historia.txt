@@ -4,3 +4,6 @@ Soy Daniel, tengo 19 años y estoy aprendiendo a programar.
 Nacio en Venezuela y ahora vive en Colombia.
 
 Hoy esta estudiando en Platzi.
+Estoy a punto de terminal el curso de Git y GitHub
+
+Master 1
